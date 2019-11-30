@@ -30,6 +30,19 @@ namespace basicosCSharp
             double resultadoPotencia = Math.Pow(78, 2);
             double resultadoRaiz = Math.Sqrt(144);
 
+            int primerNumero = 48;
+            int SegundoNumero = 12;
+            primerNumero += SegundoNumero;
+            primerNumero -= SegundoNumero;
+            primerNumero *= SegundoNumero;
+            primerNumero /= SegundoNumero;
+            primerNumero %= SegundoNumero;
+            primerNumero++;
+            primerNumero--;
+
+
+
+
             Console.ReadLine();
 
 
