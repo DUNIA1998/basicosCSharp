@@ -1,0 +1,11 @@
+C:\Users\lab\Desktop\GITHUB\basicosCSharp\basicosCSharp\basicosCSharp\bin\Debug\netcoreapp2.1\basicosCSharp.deps.json
+C:\Users\lab\Desktop\GITHUB\basicosCSharp\basicosCSharp\basicosCSharp\bin\Debug\netcoreapp2.1\basicosCSharp.runtimeconfig.json
+C:\Users\lab\Desktop\GITHUB\basicosCSharp\basicosCSharp\basicosCSharp\bin\Debug\netcoreapp2.1\basicosCSharp.runtimeconfig.dev.json
+C:\Users\lab\Desktop\GITHUB\basicosCSharp\basicosCSharp\basicosCSharp\bin\Debug\netcoreapp2.1\basicosCSharp.dll
+C:\Users\lab\Desktop\GITHUB\basicosCSharp\basicosCSharp\basicosCSharp\bin\Debug\netcoreapp2.1\basicosCSharp.pdb
+C:\Users\lab\Desktop\GITHUB\basicosCSharp\basicosCSharp\basicosCSharp\obj\Debug\netcoreapp2.1\basicosCSharp.csprojAssemblyReference.cache
+C:\Users\lab\Desktop\GITHUB\basicosCSharp\basicosCSharp\basicosCSharp\obj\Debug\netcoreapp2.1\basicosCSharp.csproj.CoreCompileInputs.cache
+C:\Users\lab\Desktop\GITHUB\basicosCSharp\basicosCSharp\basicosCSharp\obj\Debug\netcoreapp2.1\basicosCSharp.AssemblyInfoInputs.cache
+C:\Users\lab\Desktop\GITHUB\basicosCSharp\basicosCSharp\basicosCSharp\obj\Debug\netcoreapp2.1\basicosCSharp.AssemblyInfo.cs
+C:\Users\lab\Desktop\GITHUB\basicosCSharp\basicosCSharp\basicosCSharp\obj\Debug\netcoreapp2.1\basicosCSharp.dll
+C:\Users\lab\Desktop\GITHUB\basicosCSharp\basicosCSharp\basicosCSharp\obj\Debug\netcoreapp2.1\basicosCSharp.pdb
