@@ -16,7 +16,7 @@ namespace basicosCSharp
             float impuestoVenta = 9239.04f;
             Console.WriteLine("Valores:{0} -- {1}", montoFactura, impuestoVenta);
             Char letraInicial = 'P';
-            string nombreCurso = letraInicial + "rogramación 11";
+            string nombreCurso = letraInicial + "rogramación II";
             Console.WriteLine("Este es el curso {0}", nombreCurso);
             bool boolVerdadero = true;
             bool boolFalso = false;
@@ -65,6 +65,18 @@ namespace basicosCSharp
             {
                 Console.WriteLine("Este minuto es impar");
             }
+
+
+            int rondasFaltantes = 3;
+            while (rondasFaltantes > 0)
+            {
+                rondasFaltantes--;
+            }
+            rondasFaltantes = 3;
+            do
+            {
+                rondasFaltantes--;
+            } while (rondasFaltantes > 0);
 
 
 
