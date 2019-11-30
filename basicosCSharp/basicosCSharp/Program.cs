@@ -53,6 +53,20 @@ namespace basicosCSharp
             bool[] celdasMarcadas = new bool[16];
 
 
+            if (DateTime.Now.Minute % 2 == 0)
+            {
+                Console.WriteLine("Este minuto es par");
+            }
+            else if (DateTime.Now.Minute == 5)
+            {
+                Console.WriteLine("Este es el minuto 5");
+            }
+            else
+            {
+                Console.WriteLine("Este minuto es impar");
+            }
+
+
 
 
 
